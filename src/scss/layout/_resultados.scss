@@ -1,0 +1,43 @@
+.lidera{
+    text-align: right;
+    background-color: rgb(41, 64, 107);
+    padding: .5rem 5rem .5rem 0;
+    color: white;
+}
+
+.finanzas{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    //background-color: rgba(95, 233, 83, 0.315);
+    background-color: rgba(83, 143, 233, 0.315);
+}
+
+.datos{
+    h2{
+        font-weight: bold;
+    }
+    p{
+
+        font-size: 1.5rem;
+    }
+    
+}
+.referenciado{
+    .seleccione_texto{
+        color: rgb(100, 100, 100);
+    }
+    h1{
+        font-weight: bold;
+    }
+    .alumno{
+        font-weight: bold;
+        p{
+            color: rgb(17, 17, 85);
+            span{
+                color: black;
+                font-weight: 400;
+            }
+        }
+    }
+}
